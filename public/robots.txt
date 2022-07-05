@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+
+sitemap: https://topazstone.ca//sitemap.xml
